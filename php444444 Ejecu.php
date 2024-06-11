@@ -18,7 +18,7 @@ $vehiculos = [
    $coche1, $coche2, $coche3, $motocicleta1, $motocicleta2, $motocicleta3
     
 ];
-//Para poder sacar la información del array usamos "foreach" y de esta manera sacamos la información por pantalla:
+/Para poder sacar la información del array usamos "foreach" y de esta manera sacamos la información por pantalla:
 foreach ($vehiculos as $vehiculo){
    echo $vehiculo;
 }
